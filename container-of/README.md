@@ -27,9 +27,12 @@ Where
 	container_of(ptr, type, member)
 
 More:
-	http://isis.poly.edu/kulesh/stuff/src/klist/
-	http://www.makelinux.net/ldd3/chp-11-sect-5
 
-	http://www.kroah.com/log/linux/container_of.html
-	"http://crashcourse.ca/introduction-linux-kernel-programming/\
-	intermission-lets-talk-about-linked-lists-and-containerof-free"
+http://isis.poly.edu/kulesh/stuff/src/klist/
+http://www.makelinux.net/ldd3/chp-11-sect-5
+
+http://www.kroah.com/log/linux/container_of.html
+
+http://crashcourse.ca/introduction-linux-kernel-programming/intermission-lets-talk-about-linked-lists-and-containerof-free
+
+https://radek.io/2012/11/10/magical-container_of-macro/
